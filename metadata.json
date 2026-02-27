@@ -1,0 +1,5 @@
+{
+  "name": "InstaBase",
+  "description": "A professional, dark-mode Database Architect IDE with D2 parsing, SQLite generation, and Turso deployment simulation.",
+  "requestFramePermissions": []
+}
